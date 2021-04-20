@@ -22,5 +22,5 @@ let g:airline#extensions#tabline#left_alt_sep = ''
 nnoremap H gT
 nnoremap L gt
 
-nnoremap <silent> <C-p> :Files<CR>
+nnoremap <silent> <C-f> :Files<CR>
 
